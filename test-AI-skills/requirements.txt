@@ -1,0 +1,7 @@
+quart
+hypercorn
+psutil
+aiohttp
+quart-cors
+jinja2
+pdfkit 

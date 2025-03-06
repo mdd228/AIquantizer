@@ -1,0 +1,44 @@
+=== Test Results for: "who is playing today at indian wells?" ===
+
+Context Length | Response Time | Response
+------------------------------------------------
+1536          | 3232.63     ms | Today at Indian Wells, the BNP Paribas Open features several matches across different courts. Here are some of the key matches scheduled for today:
+
+- **Men's Singles**:
+  - Novak Djokovic vs. Luca Nardi
+  - Daniil Medvedev vs. Sebastian Korda
+  - Jannik Sinner vs. Ben Shelton
+
+- **Women's Singles**:
+  - Iga Świątek vs. Linda Noskova
+  - Aryna Sabalenka vs. Emma Raducanu
+  - Coco Gauff vs. Elise Mertens
+
+Please note that the schedule is subject to change based on the progress of the tournament. You can check the official BNP Paribas Open website or app for the most up-to-date information.
+2048          | 3592.16     ms | Today at Indian Wells, the BNP Paribas Open features several matches across different courts. Here are some of the key matches scheduled for today:
+
+- **Men's Singles**:
+  - Novak Djokovic vs. Luca Nardi
+  - Daniil Medvedev vs. Sebastian Korda
+  - Jannik Sinner vs. Ben Shelton
+
+- **Women's Singles**:
+  - Iga Świątek vs. Linda Noskova
+  - Aryna Sabalenka vs. Emma Raducanu
+  - Coco Gauff vs. Elise Mertens
+
+Please note that the schedule is subject to change based on the progress of the tournament. You can check the official BNP Paribas Open website or app for the most up-to-date information.
+1024          | 2895.88     ms | Today at Indian Wells, the BNP Paribas Open features several matches across different courts. Here are some of the key matches scheduled:
+
+- **Men's Singles**:
+  - Novak Djokovic vs. Luca Nardi
+  - Daniil Medvedev vs. Sebastian Korda
+  - Jannik Sinner vs. Ben Shelton
+
+- **Women's Singles**:
+  - Iga Świątek vs. Linda Noskova
+  - Aryna Sabalenka vs. Emma Raducanu
+  - Coco Gauff vs. Elise Mertens
+
+Please note that the schedule is subject to change based on the progress of earlier matches and other variables. You can check the official BNP Paribas Open website or app for the most up-to-date information.
+------------------------------------------------

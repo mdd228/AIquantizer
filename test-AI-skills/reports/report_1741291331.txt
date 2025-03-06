@@ -1,0 +1,10 @@
+AI Response Report
+Generated on: 2025-03-06 14:02:11
+
+Question: test question
+
+
+Context Length: 4096
+Response Time: 1000ms
+Response: test response
+----------------------------------------

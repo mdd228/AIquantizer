@@ -1,0 +1,21 @@
+=== Test Run - 3/6/2025, 2:41:16 PM ===
+Question: who i the most famous davis?
+
+Context Length: 4096
+Response Time: 2347.16ms
+Response: The most famous Davis is likely to be Miles Davis, an iconic American jazz trumpeter, bandleader, and composer. He was a major influence on the development of jazz, particularly in the genres of cool jazz, hard bop, and jazz fusion. However, the answer could vary depending on the context, as there are many notable individuals with the surname Davis, such as Angela Davis (political activist), Bette Davis (actress), and Jefferson Davis (former President of the Confederate States of America).
+----------------------------------------
+Context Length: 2048
+Response Time: 2422.57ms
+Response: The most famous Davis is likely to be Miles Davis, an iconic American jazz trumpeter, bandleader, and composer. He was at the forefront of several major developments in jazz music, including bebop, cool jazz, modal jazz, and jazz fusion. However, the answer could vary depending on the context, as there are many notable individuals with the surname Davis, such as Angela Davis (civil rights activist), Jefferson Davis (former President of the Confederate States), and Bette Davis (actress).
+----------------------------------------
+Context Length: 1024
+Response Time: 2113.10ms
+Response: The most famous Davis can vary depending on the context, but some well-known individuals with the surname Davis include:
+
+1. **Miles Davis** - An iconic American jazz trumpeter, bandleader, and composer.
+2. **Bette Davis** - A legendary American actress known for her roles in classic films.
+3. **Angela Davis** - A prominent American political activist, academic, and author.
+
+If you had a specific field or area in mind, please let me know, and I can provide a more targeted answer!
+----------------------------------------
